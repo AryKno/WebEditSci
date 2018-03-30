@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file alias="soft">icons/soft.png</file>
+        <file alias="save">icons/save.png</file>
+        <file alias="saveAs">icons/save_as.png</file>
+        <file alias="openFile">icons/folder.png</file>
+        <file alias="leave">icons/leave.png</file>
+        <file alias="copy">icons/copy.png</file>
+        <file alias="cut">icons/cut.png</file>
+        <file alias="paste">icons/paste.png</file>
+        <file alias="newFile">icons/document_empty.png</file>
+        <file alias="redo">icons/redo.png</file>
+        <file alias="undo">icons/undo.png</file>
+    </qresource>
+</RCC>
